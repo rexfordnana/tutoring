@@ -1,14 +1,3 @@
-/*
- * Class: CMSC201 
- * Instructor:
- * Description: (Give a brief description for each Program)
- * Due: 2/24/2019
- * I pledge that I have completed the programming assignment
-independently.
-   I have not copied the code from a student or any source.
-   I have not given my code to any student.
-   Print your name here: Nadia Ndumu
-*/
 
 public class CreditCard {
     /** Return true if the card number is valid */

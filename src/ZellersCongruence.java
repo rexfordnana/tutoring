@@ -1,13 +1,3 @@
-/*
- * Class: CMSC201 
- * Instructor:
- * Description: This program uses zellers congruence to compute the day of the week
- * Due: MM/DD/YYYY (<02/17/2019>)
- * I pledge that I have completed the programming assignment independently.
-   I have not copied the code from a student or any source.
-   I have not given my code to any student.
-   Print your Name here: Nadia Ndumu
-*/
 import java.util.Scanner;
 
 public class ZellersCongruence {
