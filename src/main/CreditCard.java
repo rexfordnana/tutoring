@@ -77,8 +77,7 @@ public class CreditCard {
     public static long inputData(){
         System.out.println("Enter a credit card number as a long: ");
         Scanner scanner = new Scanner(System.in);
-        long cardNo = scanner.nextLong();
-        return cardNo;
+        return scanner.nextLong();
     }
 
 

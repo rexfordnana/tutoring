@@ -1,42 +1,44 @@
 package test;
 
+import org.junit.Test;
+
 import static org.junit.Assert.*;
 
 public class CreditCardTest {
 
-    @org.junit.Test
+    @Test
     public void isValid() {
     }
 
-    @org.junit.Test
+    @Test
     public void sumOfDoubleEvenPlace() {
     }
 
-    @org.junit.Test
+    @Test
     public void getDigit() {
     }
 
-    @org.junit.Test
+    @Test
     public void sumOfOddPlace() {
     }
 
-    @org.junit.Test
+    @Test
     public void prefixMatched() {
     }
 
-    @org.junit.Test
+    @Test
     public void getSize() {
     }
 
-    @org.junit.Test
+    @Test
     public void getPrefix() {
     }
 
-    @org.junit.Test
+    @Test
     public void inputData() {
     }
 
-    @org.junit.Test
+    @Test
     public void displayResult() {
     }
 }
